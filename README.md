@@ -1,4 +1,4 @@
-# Flutter_Memo
+# Flutter開発環境構築手順
 
 ### 1.公式サイトからSDKをダウンロード
 > https://flutter.dev/
@@ -21,3 +21,19 @@
 
 ### 4.依存性の確認
 > flutter doctor
+
+# Flutterアプリ生成手順
+
+### プロジェクト作成コマンド
+> flutter create アプリ名
+
+### アプリ起動
+> cd アプリ名
+>
+> flutter run
+
+### シュミレータ起動コマンド
+> open -a Simulator
+
+### 起動アプリ終了
+> ターミナル上で「q」押下
